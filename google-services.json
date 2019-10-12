@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "906040257175",
+    "firebase_url": "https://seatgrabdcu.firebaseio.com",
+    "project_id": "seatgrabdcu",
+    "storage_bucket": "seatgrabdcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906040257175:android:e80fef9997542195",
+        "android_client_info": {
+          "package_name": "com.seatgrab.dcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906040257175-jd38mqssem52p9c259prcpdj7te9mk0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seatgrab.dcu",
+            "certificate_hash": "95f87bf71f998717432b70c85f162e4f017622ba"
+          }
+        },
+        {
+          "client_id": "906040257175-715bi1fmtl9a7fgqve60ef1ai8ee3fsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seatgrab.dcu",
+            "certificate_hash": "6623912b6faaf47346b9570b6329ecea8e050169"
+          }
+        },
+        {
+          "client_id": "906040257175-k3a0ha3igmhcd80v04jkc06gfmn2g421.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOL95HQXAcyp0tuDI2Wu4EOfTqA6uZqUw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906040257175-k3a0ha3igmhcd80v04jkc06gfmn2g421.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
